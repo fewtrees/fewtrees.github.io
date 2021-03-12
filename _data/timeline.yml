@@ -1,0 +1,157 @@
+- title: Fewtrees Media Ltd, Application Development
+  from: 2020
+  to: present
+  tags: [Kubernetes, Docker, Java 11, Spring Boot, JWT, JPA, GraphQl, nginx, SSL, Postgres, Postgis, React-Native, Javascript, Redux, Babel, MapKitJS]
+  description: From inception to delivery I poured heart and soul into AboutMyRoad - a mobile application 
+               that reveals ofsted, cqc, crime and flooding data amongst others from government sources.
+               I've worn many hats on this project from designer, marketing manager, developer, dev-ops, sec-ops, test management, tester 
+               and bank manager as this project has taught me hands-on experience of business scoped end-2-end delivery.
+               <br/><br/>
+               This system is delivered by a robust cloud based kubernetes architecture with fully dockerised deployments 
+               and react-native (javascript) providing a mobile application available on both iOS and Android.
+               I have leveraged my pre-existing serverside knowledge with newly learnt front-end technologies to 
+               create a robust, scaleable and secure system that is simple and engaging at the point of delivery.
+               <br/><br/>
+               
+               Product website <a target="_blank" href="https://aboutmyroad.com">https://aboutmyroad.com</a><br/>
+               Product AppStore listing <a target="_blank" href="https://apps.apple.com/us/app/aboutmyroad/id1536386050">AboutMyRoad</a><br/>
+
+- title: Sabbatical
+  from: 2019 September
+  to: 2020 July
+  description: I was demonstrated the value of life by a heart operation and subsequent stroke in the same week.
+               There are few things as life affirming and 
+               nothing has ever challenged me more so my response was to recover and then use the next project as therapy for  
+               an adverse set of challenges.
+
+- title: Co-op Bank/VIO Ltd, Manchester
+  from: June 2019
+  to: September 2019
+  tags: [Java 8, REST, Spring, JBOSS, Spring Boot, JWT, Jira]
+  description: Vio were a small development team implementing the Open Banking API for the Co-Op Bank 
+               so the bank maintained financial authority compliancy. Without this the bank is unable 
+               to operate. I developed parts of the Open Banking API using Java 8 microservices running primarily 
+               under JBoss but a Spring Boot version was also released. The API’s conform to the Open 
+               Banking specification and follow the HATEOAS specification closely.
+
+- title: Department for Transport/Valtech Ltd, Manchester
+  from: April 2018
+  to: April 2019
+  tags: [Java 8, REST, Spring Boot, JWT, Redis, Docker, AWS, Postgres, Karate/Cucumber, ELK stack, SonarQube, Git, Jenkins, Jira, PlantUML]
+  description: The UK Blue Badge system was developed to provide a single service for local authorities 
+               to administer Blue Badges and replace a multitude of regional legacy systems.
+               <br/><br/>
+               I managed a 5 strong development team implementing 
+               the system from post-Alpha through go-live into the support phase. The system provides a public facing 
+               web application for Blue Badge applications and a management web application for government local authorities both 
+               delivered by Spring Boot microservices deployed on AWS cloud infrastructure.
+               <br/><br/>
+               Through wider project engagement I ensured the development team had processes, practices and product stories that 
+               all delivered value. This Agile project demanded effective and continual collaboration with all 
+               teams and contributed towards efficiently running project ceremonies such as planning meetings and 
+               sprints. 
+               <br/><br/>
+               Secondarily I designed/documented microservice solutions and undertook coding stories. 
+               AWS used extensively to provide storage, hosting and secrets management. Spring Boot integrated with 
+               Redis for session management. SwaggerHub used to document APIs and the Government Digital Services 
+               Toolkit used in front-end code. All code branch commits were unit and integration tested, peer reviewed 
+               including quality metrics and scanned for security vulnerabilities including library dependencies.
+               <br/><br/>
+               Website <a target="_blank" href="https://apply-blue-badge.service.gov.uk">https://apply-blue-badge.service.gov.uk</a><br/>
+               Parent site <a target="_blank" href="https://www.gov.uk/apply-blue-badge">https://www.gov.uk/apply-blue-badge</a><br/>
+
+- title: Cultura Technologies
+  from: September 2017
+  to: April 2018
+  tags: [Java 8, REST, Spring Boot, Spring 4, Mule ESB, OAuth2, JWT, Postgres, iBatis, Docker, Karate, Cucumber]
+  description: Developed a new seed information system delivering consumable seed data for 3rd parties and implemented a 
+               multi-tiered micro-service solution providing REST API’s for both external websites
+               and internal business systems. The APIs are secured using OAuth2 and Java Web Tokens (JWT) with a third-party provider. 
+               <br/><br/>
+               The project was created from scratch including building a <b>CI/CD</b> build pipeline using Git, Docker, 
+               Jenkins and SonarQube. Jira supplemented Kanban and Scrum to organize the backlog, feed the Sprint and 
+               organize the development process. I designed software architecture and implementation solutions, giving 
+               guidance to external teams. Development work centered around framework components ensuring consistent 
+               implementation and API development.
+
+- title: The Hut Group
+  from: October 2015
+  to: September 2017
+  tags: [Java 8, Couchbase, REST, MSSQL, OAuth, Camel, Spring 4, Angular, Bootstrap, Jasmine, Karma, Gulp, Google Guava]
+  description: Developed an OAUTH authentication system and mobile api to support The Hut Groups sales channels and websites. I
+               mplemented as Spring Boot microservices, this cloud-based system utilised Couchbase clusters for a tokenstore. 
+               Fewtrees has worked on several of their java backend systems providing fundamental business services i.e. store 
+               front, checkout, product allocation, delivery & dispatch across various technologies including MS SQL & Apache 
+               Camel ESB. I have also undertaken various front-end management tools using Angular 2 to manage and report on 
+               shipment processing across all Hut Group sites. These tools are composed of REST based API's and SPA front-ends 
+               tested using Karma and Jasmin. The development is TDD and work managed through Agile stories using Jira. On these 
+               projects I've used many of the newer Java 1.8 features i.e. Lambdas, Streams & Parallelisation.
+
+- title: Barclays Bank Plc
+  from: March 2015
+  to: October 2015
+  tags: [Java, JSP, JBoss, SOAP, Gradle, Cobertura]
+  description: Developed a customer ID & verify sign-on solution for use with government sites such as HMRC's self-assessment 
+               or the DVLA site. This was a no-frills application using java/jsps deployed on JBoss. The application 
+               interfaced through to legacy backends using SOAP. Build environment was Gradle. Code quality achieved 
+               through TDD and Cobertura and development work driven by scrums and Jira.
+
+
+- title: Cultura Technologies
+  from: October 2014
+  to: March 2015
+  tags: [REST, Spring, Hibernate, MyBatis, Jquery, Angular.js, JCE]
+  description: Cultura’s ‘MyFarm’ project delivers a web based single page application (SPA) for agri-businesses 
+               to manage crop yields supported by geo-spatial data. Agile processes successfully introduced to manage 
+               sprints, workload and supporting processes. This includes continuous delivery through CI processes, 
+               automated deployments, TDD testing and modern git branching strategies to allow parallel changes. 
+               Software written using both Java and Javascript to support mostly back-end functionality and an 
+               angular/jquery based SPA front-end.
+
+- title: Department for Work and Pensions
+  from: June 2014
+  to: October 2014
+  tags: [Apache Karaf, OSGI, JAX-RS & JAX-WS, Maven, Gitlab]
+  description: A quick assignment to develop proof-of-concept ideas to create and test feasible solutions underpinning 
+               the strategic technology architecture. Examples were designed and produced demonstrating an OSGI 
+               based solution that brokered rest based APIs to legacy SOAP API's using a scalable and serviceable architecture.
+
+- title: Stagecoach Plc
+  from: Aug 2011
+  to: Feb 2014
+  tags: [Java, AWS, Spring, Hibernate, iBatis, Gemfire, Rabbit MQ, MySql, CI/CD, Jenkins, Quartz, Velocity, Groovy, SVN]
+  description: Designed and wrote many parts of Stagecoach's new search & booking web application to provide travel services 
+               across the US, Canada, UK and EU. The system achieves high availability hosted in a cloud environment 
+               and supported Web, Kiosk & Mobile sales channels, delivering products to customers. Software written using 
+               current Agile and TDD methodologies within a continuous build & integration (Jenkins & Gradle) environment. 
+               The solutions included distributed gemfire caches, back-end messaging and SOAP endpoints. The software also 
+               used Velocity for email generation and Motionpoint for email language translation. Custom AOP used extensively 
+               for system performance monitoring. Deployment was Amazon Cloud with a cluster of Tomcat servers and MySql 
+               databases. System management applications built using JSP’s, Spring MVC and JQuery. I migrated Stagecoach’s 
+               live operational data using ETL tools and Groovy with 1hr customer downtime. In this position I also guided 
+               more junior members of the team.
+
+- title: Before
+  description: Bank of America - Delivered re-write of the banks credit card pin disclosure system for both telephone and web channels.
+               <br/><br/>
+               Sage UK - Delivered a PKI managed digital platform for updating and licensing customer desktop software
+               <br/><br/>
+               BT Syntegra - Project Manager, delivered DiabetesE, a national Java/JSP based web application into 150 Primary Care Trusts and Clinical Practices within the NHS England
+               <br/><br/>
+               Siemens Business Systems - Java Team Leader, developing the Java/Tomcat based client for the Vehicle Inspectorate MOT system.
+
+               <br/><br/>
+               GE Global Consumer Finance - Java Team Leader for a team of 10 developing a Credit Application System.
+
+               <br/><br/>
+               Siemens Business Systems - Java Team Leader, developing the Java/Tomcat based client for the Vehicle Inspectorate MOT system.
+
+               <br/><br/>
+               IBM Global Systems - Implementing a MS IIS/ASP based solution to manage 2800 individual project schedules.
+
+               <br/><br/>
+               Royal Bank of Scotland - Developed applications to support the Front Office Futures Trading desk.
+               Wrote and implemented RBOS’s New York Treasury Capital Market report system for FX trading.
+
+               <br/><br/>
+               GlaxoSmithKline Plc - Developed Pharmaceutical product trialing software

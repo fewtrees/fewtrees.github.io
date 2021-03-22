@@ -1,13 +1,40 @@
 ---
-title: Digital Minimalism
-tags: [Social Media, Minimalism, Technology]
+title: Social Media
+tags: [Social Media, Accountability, Technology]
 style: 
 color: 
-description: Minimalism is the art of knowing how much is just enough. Digital minimalism applies this idea to our personal technology. It’s the key to living a focused life in an increasingly noisy world.
+description: Social Media in it's current form allows the propagation of poor non-critical thinking, empowers the sound-bite and bribes us to sell ourselves. 
 ---
 
-Source: [Nikhil Thota](https://medium.com/@nikhilthota/digital-minimalism-ac083064b4e4)
+Worse than 1984 - just a click away.
 
+Imagine that all the social media activity you generate, the likes, friend requests and comments become more than just an advertising opportunity. Right now each and every social micro-transaction is recorded and builds a picture of probability, what you do and who with. We do this willingly because people are addicted to the little affirmations communicated back - a thank you goes a long way. But what if those affirmative micro transactions become more than an advertising opportunity, what if they become a ranking or permission. You must be crazy yeah? Well, no because in mainland China, it already happens and secondly it happens here to a lesser extent. 
+
+Currently the Chinese has a disjointed approach to recording behaviour with different entities recording their own metrics. The lack of integrated social accountability is a saving grace, but what if our western government decided that it could use a massive, accepted and predominant platform endemic within the population to do something similar. To introduce this idea a population is easily enticed into accepting a solution (I'm already making it sound good) because it offers a positive outcome - an example is a person that associates/behaves like a criminal so they won't get hold of chemicals or credit. Perhaps there's a curfew limit on their time outside and becomes another reason to stop and search. The system has put a label or identity on you and your freedoms are impinged. Your behaviour is a calculable risk that would put others at risk because the algorithm says so.
+
+Another missing piece of the jigsaw that makes this system really effective is facial recognition. In public your image can be taken by anyone with a camera. By recording events and associating faces to behaviour we have unrefutable evidence linking the two that can feed into the social algorithm. A passer by might video you being upset with your boyfriend and an act of aggression is recorded, not the fact he's just explained a friend has died and you're upset.
+
+It's not hard either, we upload video all the time and adding an #aggressive tag is a few seconds more.. Perhaps you gain social points by uploading the evidence almost receiving 'likes' by 'society'..
+
+My endgame argument is we are a step away from a widespread, integrated system that can be used to curtail your life, your choices and opportunities based on some shaky presumptions or misplaced label. It could never happen here is an anathema that's often proclaimed but in this world of insta-virtue and a prolific failure to critically think 
+
+<https://www.businessinsider.com/china-social-credit-system-punishments-and-rewards-explained-2018-4?op=1&r=US&IR=T#they-can-also-get-discounts-on-energy-bills-rent-things-without-deposits-and-get-better-interest-rates-at-banks-11>
+
+
+
+Whilst it wouldn't be as punitive as the China system to begin with as that would dissuade it's use, it could be introduced as a positive form of discrimination. Certain people might not be able to buy ordinary goods because of behavioural patterns that link
+
+You liked a persons comment but didn't know 
+
+
+ to us and then our ego takes over and says look how grea or being a nice person. 
+
+1. Don't live on Social Media
+There's no substitute for reality especially when it comes to likes or friends or 
+Really, it isn't. Likes aren't really likes
+
+
+We don't care about corporate Facebook and Facebook doesn't care about it's users. It's a relationship that builds on a complacency near to a banana republic government and its people.
 A few months ago I was offered (and have since accepted) a full time offer to work at Facebook in San Francisco and in that time I have been reflecting on my own usage of social media and the amount of value it has added to my life.
 
 A common trend I’ve been seeing is the urgency to delete all your social media IMMEDIATELY or even go completely off-the-grid to avoid the unimaginable long-term implications of having your attention and personal data potentially manipulated and abused. I don’t think that we can thrive in today’s world without utilizing the platforms that allow us such a dense level of interconnectivity. I’m not saying that things couldn’t be engineered better; what I am saying however, is that we can take control of how these platforms influence us and in a sense, take control of our own evolution.

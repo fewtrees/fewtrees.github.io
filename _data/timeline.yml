@@ -2,13 +2,13 @@
   from: 2020
   to: present
   tags: [Kubernetes, Docker, Java 11, Spring Boot, JWT, JPA, GraphQl, nginx, SSL, Postgres, Postgis, React-Native, Javascript, Redux, Babel, MapKitJS]
-  description: From inception to delivery I poured heart and soul into AboutMyRoad - a mobile application 
+  description: From inception to delivery I poured heart and soul into <a target="_blank" href="https://aboutmyroad.com">AboutMyRoad</a> - a mobile application 
                that reveals ofsted, cqc, crime and flooding data amongst others from government sources.
                I've worn many hats on this project from designer, marketing manager, developer, dev-ops, sec-ops, test management, tester 
                and bank manager as this project has taught me hands-on experience of business scoped end-2-end delivery.
                <br/><br/>
-               This system is delivered by a robust cloud based kubernetes architecture with fully dockerised deployments 
-               and react-native (javascript) providing a mobile application available on both iOS and Android.
+               This system is delivered by a robust cloud based <a target="_blank" href="https://kubernetes.io">kubernetes</a> architecture with fully <a target="_blank" href="https://www.docker.com">dockerised</a> deployments 
+               and <a target="_blank" href="https://reactnative.dev">react-native</a> (javascript) providing a mobile application available on both iOS and Android.
                I have leveraged my pre-existing serverside knowledge with newly learnt front-end technologies to 
                create a robust, scaleable and secure system that is simple and engaging at the point of delivery.
                <br/><br/>
@@ -30,7 +30,7 @@
   description: Vio were a small development team implementing the Open Banking API for the Co-Op Bank 
                so the bank maintained financial authority compliancy. Without this the bank is unable 
                to operate. I developed parts of the Open Banking API using Java 8 microservices running primarily 
-               under JBoss but a Spring Boot version was also released. The API’s conform to the Open 
+               under JBoss but a <a target="_blank" href="https://spring.io">Spring Boot</a> version was also released. The API’s conform to the Open 
                Banking specification and follow the HATEOAS specification closely.
 
 - title: Department for Transport/Valtech Ltd, Manchester

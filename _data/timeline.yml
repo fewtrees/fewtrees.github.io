@@ -1,6 +1,16 @@
+- title: PA Consulting
+  from: May 2021
+  to: present
+  tags: [Agile, Change Management, Roadmap, Team Leading, Mentorship, Kubernetes, Docker, Java 11, Spring Boot, JPA, Postgres, Javascript]
+  description: I have taken a project with high churn, without working practices to a team with great ways of working and put development and tech delivery into the foundations of the roadmap. </br>
+               I have improved BA deliverables that furnish agile lifecycles and Dev practices that improve quality. By identifying key issues undermining project delivery I have driven change across the team at all levels to a much improved and cohesive delivery stream. 
+               I keep my hand in development and are comfortable mentoring and writing Java 11 code. 
+               My other main contribution is through comprehensive and principled assistance to the team through exposure from the full SDLC within many industries providing guidance and mentorship wherever necessary. 
+               </br>Finally, I contribute to SEGAS which is a Software Engineering guidance initiative across the HomeOffice for software design & coding and have published articles HomeOffice wide.
+
 - title: Fewtrees Media Ltd, Application Development
   from: 2020
-  to: present
+  to: May 2021
   tags: [Kubernetes, Docker, Java 11, Spring Boot, JWT, JPA, GraphQl, nginx, SSL, Postgres, Postgis, React-Native, Javascript, Redux, Babel, MapKitJS]
   description: From inception to delivery I poured heart and soul into <a target="_blank" href="https://aboutmyroad.com">AboutMyRoad</a> - a mobile application 
                that reveals ofsted, cqc, crime and flooding data amongst others from government sources.

@@ -4,6 +4,9 @@
       <div class="timeline-item">
         <div class="content">
           <h2>{{ item.title }}</h2>
+          {%- if item.position -%}
+            <h6 class="date">{{ item.position }}</h6>
+          {%- endif -%}
           {%- if item.from & item.to -%}
             <h6 class="date">{{ item.from }} — {{ item.to }}</h6>
           {%- endif -%}
